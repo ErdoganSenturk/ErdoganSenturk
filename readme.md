@@ -19,9 +19,9 @@
 
 - I’m junior Full Stack developer.
 
-- I’m currently learning React.js |  Express.js | Node.js | MongoDB
+- I’m currently learning React
 
-- HTML5, CSS3, Sass, Bootstrap, JavaScript, Python, SQL, GitHub
+- HTML5, CSS3, SASS, Bootstrap, JavaScript, Python, SQL, GitHub
 
 
 ## 🚀 Skills
