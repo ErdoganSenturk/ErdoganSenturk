@@ -1,6 +1,6 @@
 
 
-<h1>Hi there 👋, I'm Erdoğan</h1>
+<h1>Hi there 👋, I'm Erdoğan I’m junior Full Stack developer.</h1> 
 
 - 🔭 I’m currently learning React.
 - 👯 I’m looking forward to collaborating on new projects. 
@@ -10,17 +10,6 @@
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdo%C4%9Fan-%C5%9Fent%C3%BCrk-677371239/) ![](https://komarev.com/ghpvc/?username=ErdoganSenturk&style=flat-square)
-
-
-## What I'm using ? 🛠
-
-<br/>
-
-- I’m junior Full Stack developer.
-
-- I’m currently learning React
-
-- HTML5, CSS3, SASS, Bootstrap, JavaScript, Python, SQL, GitHub
 
 
 ## 🚀 Skills
