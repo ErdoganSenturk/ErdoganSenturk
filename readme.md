@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently learning React.
 - 👯 I’m looking forward to collaborating on new projects. 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about what you wonder..
 - 📫 How to reach me : **erdsen57@gmail.com**
 
