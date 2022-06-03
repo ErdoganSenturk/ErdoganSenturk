@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-<h1>Hi there 👋, I'm Erdoğan. I’m Full Stack developer.</h1>
-
-- 🔭 I’m currently learning React.
-- 👯 I’m looking forward to collaborating on new projects.
-- 💬 Ask me what you wonder..
-- 📫 How to reach me : **erdsen57@gmail.com**
-
-<br/>
-=======
-
-
 <h1>Hi there 👋, I'm Erdoğan. I’m junior Full Stack developer.</h1> 
 
 - 🔭 I’m currently learning React.
 - 👯 I’m looking forward to collaborating on new projects. 
-- 💬 Ask me about what you wonder..
+- 💬 Ask me what you wonder..
 - 📫 How to reach me : **erdsen57@gmail.com**
 
 
