@@ -8,8 +8,7 @@
 - 📫 How to reach me : **erdsen57@gmail.com**
 
 
-
-[[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdo%C4%9Fan-%C5%9Fent%C3%BCrk-677371239/)](https://www.linkedin.com/in/erdo%C4%9Fan%C5%9Fent%C3%BCrk/) ![](https://komarev.com/ghpvc/?username=ErdoganSenturk&style=flat-square)
+https://www.linkedin.com/in/erdo%C4%9Fan-%C5%9Fent%C3%BCrk/
  ![](https://komarev.com/ghpvc/?username=ErdoganSenturk&style=flat-square)
 
 
