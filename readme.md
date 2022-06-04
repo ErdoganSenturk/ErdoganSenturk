@@ -7,22 +7,6 @@
 - 📫 How to reach me : **erdsen57@gmail.com**
 
 <br/>
-=======
-
-
-<h1>Hi there 👋, I'm Erdoğan. I’m junior Full Stack developer.</h1> 
-
-- 🔭 I’m currently learning React.
-- 👯 I’m looking forward to collaborating on new projects. 
-- 💬 Ask me about what you wonder..
-- 📫 How to reach me : **erdsen57@gmail.com**
-
-
-https://www.linkedin.com/in/erdo%C4%9Fan-%C5%9Fent%C3%BCrk/
- ![](https://komarev.com/ghpvc/?username=ErdoganSenturk&style=flat-square)
-
->>>>>>> 38d5f08d5a7256084de36c0407675132c66742d2
-
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdogansenturk/)
