@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-<h1>Hi there 👋, I'm Erdoğan. I’m Full Stack developer.</h1>
+<h1>Hi there 👋, I'm Erdoğan. I’m junior Full Stack developer.</h1> 
 
 - 🔭 I’m currently learning React.
-- 👯 I’m looking forward to collaborating on new projects.
+- 👯 I’m looking forward to collaborating on new projects. 
 - 💬 Ask me what you wonder..
 - 📫 How to reach me : **erdsen57@gmail.com**
 
-<br/>
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdogansenturk/)
@@ -26,7 +24,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="80"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40" width="80"/> </a> <a href="#" target="_blank"> <img src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png" height="45"/> </a>
 </p>
 <br/>
-<b>My GitHub Statistics</b>
+<b>My GitHub Statisticss</b>
 <br/><br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ErdoganSenturk&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="40%"/>&nbsp;
