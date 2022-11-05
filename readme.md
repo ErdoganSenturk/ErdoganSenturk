@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Erdoğan. I’m junior Full Stack developer.</h1> 
 
-- 🔭 I’m currently learning React.
+- 🔭 I’m currently learning C#.
 - 👯 I’m looking forward to collaborating on new projects. 
 - 💬 Ask me what you wonder..
 - 📫 How to reach me : **erdsen57@gmail.com**
